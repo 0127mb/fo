@@ -1,0 +1,29 @@
+    header div{display: flex; align-items: center; justify-content: space-around;} 
+.box{display: flex;;  align-items: center ; justify-content: space-around;} 
+.box div{width: 400px;}
+.box button{width: 197px;height: 49px; border-radius: 30px ; background-color: blue ; color: white; border: none;}
+.wer{text-align: center;}
+.rew{width: 39%;  margin-left: 500px;} 
+.vid{width: 380px; height: 380px; background-color: antiquewhite ; border-radius: 20px; }
+.vid p{width: 70%; display: flex;align-items: center; text-align: center;}
+.vid h1{text-align: center;}
+li{list-style: none;}
+.vox{ display: flex;flex-wrap: wrap; gap: 200px;}
+.vox div{width: 380px; height: 380px;  }
+.ret{background-color: cornflowerblue; border-radius: 20px;}
+.bir{width: 200px; height: 54.75px; border: solid 2px; border-radius: 30px; background-color: none; color: cornflowerblue; margin-left: 700px;  margin-top: 20px; }
+.dal div {  width: 30%;   }
+.dal img{display: flex; align-items: center;}
+.dig{width: 200px; height: 54px; border-radius: 20px; border-color: cornflowerblue; color: cornflowerblue; text-align: center; margin-left: 900px;}
+.dal{display: flex;
+justify-content: space-around;}
+.r h1{text-align: center;}
+
+
+
+/* .disir { display: flex;    flex-wrap: wrap; gap: 300px;} */
+.fox div {width: 60%;    }
+/* .disir{ display: flex; } */
+footer{display: flex;justify-content: space-around; background-color: rgba(103, 195, 243, 1); height: 432px; display: flex;align-items: center;}
+.tor{width: 386px;}
+li{list-style: none;}
